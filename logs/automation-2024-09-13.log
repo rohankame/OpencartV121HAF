@@ -1,0 +1,3 @@
+2024-09-13 13:47:53.846 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@3762c4fc: 7 ms
+2024-09-13 13:47:53.861 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@3ebe4ccc: 12 ms
+2024-09-13 13:47:53.861 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@6ed043d3: 0 ms

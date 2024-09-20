@@ -1,0 +1,15 @@
+2024-09-09 16:42:51.966 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-09 16:42:51.972 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-09 16:42:51.974 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-09 16:42:51.974 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-09 16:42:51.976 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-09 16:42:51.976 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-09 16:42:51.976 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-09 16:42:51.977 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-09 16:42:51.982 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\admin\IdeaProjects\OpencartV121HAF\src\test\java\testCases\Master.xml
+
+2024-09-09 16:42:52.000 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+2024-09-09 16:42:54.948 [main] INFO  testCases.TC002LoginTest - **** starting TC_002_LoginTest*****
+2024-09-09 16:42:56.739 [main] INFO  testCases.TC002LoginTest - *** Finished TC_002_LoginTest ****
+2024-09-09 16:42:56.862 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@43cf6ea3: 0 ms

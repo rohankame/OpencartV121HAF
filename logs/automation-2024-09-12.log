@@ -1,0 +1,7 @@
+2024-09-12 22:35:17.568 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-12 22:35:17.572 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-12 22:35:17.580 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\admin\IdeaProjects\OpencartV121HAF\grid_docker.xml
+
+2024-09-12 22:35:17.948 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 8 ms.
+2024-09-12 22:38:21.845 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@4996c99: 0 ms

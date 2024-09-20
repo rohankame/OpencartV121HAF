@@ -1,0 +1,23 @@
+2024-09-14 11:55:40.069 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-14 11:55:40.072 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-14 11:55:40.072 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-14 11:55:40.082 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\admin\IdeaProjects\OpencartV121HAF\src\test\java\testCases\Master.xml
+
+2024-09-14 11:55:40.379 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+2024-09-14 11:55:43.636 [main] INFO  testCases.TC001_AccountRegistrationTest - **** starting TC001_AccountRegistrationTest****
+2024-09-14 11:55:43.636 [main] DEBUG testCases.TC001_AccountRegistrationTest - This is a debug log message
+2024-09-14 11:55:43.765 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2024-09-14 11:55:44.333 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2024-09-14 11:55:44.336 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details..
+2024-09-14 11:55:45.601 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+2024-09-14 11:55:46.679 [main] INFO  testCases.TC001_AccountRegistrationTest - Test passed
+2024-09-14 11:55:46.679 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Finished TC001_AccountRegistrationTest***** 
+2024-09-14 11:55:48.884 [main] INFO  testCases.TC002LoginTest - **** starting TC_002_LoginTest*****
+2024-09-14 11:55:50.640 [main] INFO  testCases.TC002LoginTest - *** Finished TC_002_LoginTest ****
+2024-09-14 11:55:52.175 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@18371d89: 123 ms
+2024-09-14 11:55:52.176 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@4f3faa70: 1 ms
+2024-09-14 11:55:52.187 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@1e1b061: 11 ms
+2024-09-14 11:55:52.194 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@3762c4fc: 5 ms
+2024-09-14 11:55:52.203 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@3ebe4ccc: 9 ms
+2024-09-14 11:55:52.203 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@6ed043d3: 0 ms

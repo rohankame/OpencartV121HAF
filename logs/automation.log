@@ -1,0 +1,27 @@
+2024-09-20 11:34:38.006 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-20 11:34:38.011 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-09-20 11:34:38.016 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 5 ms.
+2024-09-20 11:34:38.018 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-20 11:34:38.019 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-20 11:34:38.019 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-20 11:34:38.019 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-20 11:34:38.028 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\admin\IdeaProjects\OpencartV121HAF\src\test\java\testCases\Master.xml
+
+2024-09-20 11:34:38.361 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 7 ms.
+2024-09-20 11:34:43.589 [main] INFO  testCases.TC001_AccountRegistrationTest - **** starting TC001_AccountRegistrationTest****
+2024-09-20 11:34:43.589 [main] DEBUG testCases.TC001_AccountRegistrationTest - This is a debug log message
+2024-09-20 11:34:43.741 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2024-09-20 11:34:44.393 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2024-09-20 11:34:44.400 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details..
+2024-09-20 11:34:45.788 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+2024-09-20 11:34:47.232 [main] INFO  testCases.TC001_AccountRegistrationTest - Test passed
+2024-09-20 11:34:47.232 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Finished TC001_AccountRegistrationTest***** 
+2024-09-20 11:34:49.490 [main] INFO  testCases.TC002LoginTest - **** starting TC_002_LoginTest*****
+2024-09-20 11:34:51.324 [main] INFO  testCases.TC002LoginTest - *** Finished TC_002_LoginTest ****
+2024-09-20 11:34:53.018 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@5a8816cc: 89 ms
+2024-09-20 11:34:53.019 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@68565bc7: 0 ms
+2024-09-20 11:34:53.037 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@63d5874f: 17 ms
+2024-09-20 11:34:53.045 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@3a8d467e: 8 ms
+2024-09-20 11:34:53.056 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@280d4882: 11 ms
+2024-09-20 11:34:53.056 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@44af588b: 0 ms

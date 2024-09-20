@@ -1,0 +1,36 @@
+2024-09-11 16:07:04.668 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-11 16:07:04.674 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-11 16:07:04.675 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-11 16:07:04.675 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-11 16:07:04.675 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-11 16:07:04.676 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-11 16:07:04.679 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-11 16:07:04.679 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-11 16:07:04.680 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-11 16:07:04.680 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-11 16:07:04.681 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-11 16:07:04.687 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 6 ms.
+2024-09-11 16:07:04.690 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-11 16:07:04.690 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-11 16:07:04.690 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-11 16:07:04.690 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-11 16:07:04.700 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\admin\IdeaProjects\OpencartV121HAF\src\test\java\testCases\Master.xml
+
+2024-09-11 16:07:04.952 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+2024-09-11 16:07:07.746 [main] INFO  testCases.TC001_AccountRegistrationTest - **** starting TC001_AccountRegistrationTest****
+2024-09-11 16:07:07.747 [main] DEBUG testCases.TC001_AccountRegistrationTest - This is a debug log message
+2024-09-11 16:07:07.862 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2024-09-11 16:07:08.401 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2024-09-11 16:07:08.405 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details..
+2024-09-11 16:07:09.487 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+2024-09-11 16:07:10.563 [main] INFO  testCases.TC001_AccountRegistrationTest - Test passed
+2024-09-11 16:07:10.563 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Finished TC001_AccountRegistrationTest***** 
+2024-09-11 16:07:12.630 [main] INFO  testCases.TC002LoginTest - **** starting TC_002_LoginTest*****
+2024-09-11 16:07:14.121 [main] INFO  testCases.TC002LoginTest - *** Finished TC_002_LoginTest ****
+2024-09-11 16:07:15.131 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@18371d89: 99 ms
+2024-09-11 16:07:15.132 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@4f3faa70: 0 ms
+2024-09-11 16:07:15.179 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@1e1b061: 47 ms
+2024-09-11 16:07:15.204 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@3762c4fc: 25 ms
+2024-09-11 16:07:15.212 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@3ebe4ccc: 8 ms
+2024-09-11 16:07:15.213 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@6ed043d3: 0 ms

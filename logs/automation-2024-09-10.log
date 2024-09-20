@@ -1,0 +1,4 @@
+2024-09-10 17:21:57.071 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Finished TC001_AccountRegistrationTest***** 
+2024-09-10 17:21:58.616 [main] INFO  testCases.TC002LoginTest - **** starting TC_002_LoginTest*****
+2024-09-10 17:21:59.656 [main] INFO  testCases.TC002LoginTest - *** Finished TC_002_LoginTest ****
+2024-09-10 17:21:59.730 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@7b3315a5: 0 ms
